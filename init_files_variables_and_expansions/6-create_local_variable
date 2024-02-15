@@ -1,2 +1,2 @@
 #!/bin/bash
-ftfy
+BEST=School && set | grep BEST | grep -v BASH_EXECUTION_STRING
